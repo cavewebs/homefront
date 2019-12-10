@@ -1,0 +1,80 @@
+.monitor-homepage {
+  /* background-image: url(../assets/img/header-bg.jpg) !important; */
+  background-image: url(../assets/img/header-bg.jpg) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+input[type="submit"] {
+  background-color: #00adef;
+}
+
+button.btn-primary {
+  border-radius: 8px;
+  font-size: 16px;
+  max-width: 320px;
+  font-weight: 600;
+  background-color: #00adef;
+  border: 1px solid #00adef;
+  width: 100%;
+  color: rgba(255, 255, 255, 1);
+  padding-right: var(--padding);
+  padding-left: var(--padding);
+  min-height: 48px;
+}
+.bg-blue {
+  margin: 50px auto;
+  max-width: 100%;
+  padding: 20px 50px;
+  background: linear-gradient(10deg, #00adef, transparent);
+}
+
+.feat-img {
+  height: 14rem;
+  width: 18rem;
+}
+.hf-logo {
+  background: url(../assets/img/logo1.jpg);
+  width: 100%;
+  max-width: 212px;
+  margin-left: 8px;
+  background-position: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 28px;
+}
+.feat-img.mentors {
+  background-image: url(../assets/img/logos/Mentors_International.png);
+}
+.feat-img.amazon {
+  background-image: url(../assets/img/logos/amazon.png);
+}
+.feat-img.shef {
+  background-image: url(../assets/img/logos/shef.png);
+}
+.feat-img.google {
+  background-image: url(../assets/img/logos/google.png);
+}
+
+.feat-img.technician {
+  background-image: url(../assets/img/full-technician01.png);
+}
+
+.feat-img.leadership {
+  background-image: url(../assets/img/leadership01.png);
+}
+
+.feat-img.innovation {
+  background-image: url(../assets/img/innovation001.png);
+}
+
+.feat-img.agroprenuer {
+  background-image: url(../assets/img/agropreneur01.png);
+}
+
+.feat-img.technoprenuer {
+  background-image: url(../assets/img/technopreneur01.png);
+}
+
+.feat-img.creativity {
+  background-image: url(../assets/img/creativity01.png);
+}
